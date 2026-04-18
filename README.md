@@ -1,6 +1,6 @@
 # Youssif Ashmawy
 ## 💫 About Me:
-I’m a System Engineer passionate about building intelligent, scalable systems that bridge AI, cloud infrastructure, and real-world applications.<br><br>I enjoy designing projects that combine:<br>	•	🤖 Artificial Intelligence & Machine Learning<br>	•	☁️ Cloud & Distributed Systems<br>	•	📦 MLOps & Production-ready AI pipelines<br><br>My focus is not just on training models, but on deploying, monitoring, and maintaining them in real-world environments. I like turning ideas into end-to-end systems, from data ingestion and RAG pipelines to deployment and automation.
+I’m an IT System Engineer passionate about building intelligent, scalable systems that bridge AI, cloud infrastructure, and real-world applications.<br><br>I enjoy designing projects that combine:<br>	•	🤖 Artificial Intelligence & Machine Learning<br>	•	☁️ Cloud & Distributed Systems<br>	•	📦 MLOps & Production-ready AI pipelines<br><br>My focus is not just on training models, but on deploying, monitoring, and maintaining them in real-world environments. I like turning ideas into end-to-end systems, from data ingestion and RAG pipelines to deployment and automation.
 
 
 ## 💻 Tech Stack:
