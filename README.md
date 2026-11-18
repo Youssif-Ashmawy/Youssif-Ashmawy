@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssif%20Ashmawy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MLOps%20Engineer%20%E2%80%A2%20AI%20%C3%97%20Cloud%20%C3%97%20Production&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssif%20Ashmawy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MLOps%20%26%20LLMOps%20Engineer%20%E2%80%A2%20AI%20%C3%97%20Cloud%20%C3%97%20Production&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Training+models+is+step+one.;Shipping+them+is+the+real+job.;RAG+pipelines+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+for+ML;From+notebook+%E2%86%92+production+%E2%86%92+monitored.;If+it's+not+fully+automated,+it's+not+done." alt="Typing SVG" />
@@ -24,13 +24,13 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm an **MLOps Engineer** who builds intelligent, scalable systems that bridge **AI**, **cloud infrastructure**, and **real-world applications**.
+I'm an **MLOps & LLMOps Engineer** focused on building, deploying, optimizing, and maintaining AI systems in production.
 
 My focus isn't just on *training* models; it's on **deploying, monitoring, and maintaining** them where it matters: in production. I love turning ideas into **end-to-end systems**, from data ingestion and RAG pipelines all the way to deployment and automation.
 
 - 🤖 &nbsp;**AI & Machine Learning** - PyTorch, TensorFlow, scikit-learn, OpenCV
 - ☁️ &nbsp;**Cloud & Distributed Systems** - AWS, OpenStack, Kubernetes
-- 📦 &nbsp;**MLOps** - reproducible, observable, production-ready pipelines
+- 📦 &nbsp;**MLOps & LLMOps** - reproducible, observable, production-ready pipelines
 - ⚡ &nbsp;**GPU Computing** - CUDA-accelerated workloads
 
 </td>
