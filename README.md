@@ -11,7 +11,6 @@
   <a href="https://linkedin.com/in/youssif-ashmawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ashmawyyoussif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://youssif-ashmawy.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FDDA0D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Youssif-Ashmawy&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -27,12 +26,12 @@
 
 I'm an **MLOps Engineer** who builds intelligent, scalable systems that bridge **AI**, **cloud infrastructure**, and **real-world applications**.
 
-My focus isn't just on *training* models — it's on **deploying, monitoring, and maintaining** them where it matters: in production. I love turning ideas into **end-to-end systems**, from data ingestion and RAG pipelines all the way to deployment and automation.
+My focus isn't just on *training* models; it's on **deploying, monitoring, and maintaining** them where it matters: in production. I love turning ideas into **end-to-end systems**, from data ingestion and RAG pipelines all the way to deployment and automation.
 
-- 🤖 &nbsp;**AI & Machine Learning** — PyTorch, TensorFlow, scikit-learn, OpenCV
-- ☁️ &nbsp;**Cloud & Distributed Systems** — AWS, OpenStack, Kubernetes
-- 📦 &nbsp;**MLOps** — reproducible, observable, production-ready pipelines
-- ⚡ &nbsp;**GPU Computing** — CUDA-accelerated workloads
+- 🤖 &nbsp;**AI & Machine Learning** - PyTorch, TensorFlow, scikit-learn, OpenCV
+- ☁️ &nbsp;**Cloud & Distributed Systems** - AWS, OpenStack, Kubernetes
+- 📦 &nbsp;**MLOps** - reproducible, observable, production-ready pipelines
+- ⚡ &nbsp;**GPU Computing** - CUDA-accelerated workloads
 
 </td>
 <td width="45%" valign="top">
@@ -40,7 +39,7 @@ My focus isn't just on *training* models — it's on **deploying, monitoring, an
 ```python
 class YoussifAshmawy:
     role     = "MLOps Engineer"
-    focus    = ["LLMs & RAG", "Model Serving",
+    focus    = ["LLMs", "Model Serving",
                 "Cloud Infra", "Automation"]
     pipeline = "data → train → deploy → monitor"
     stack    = {
