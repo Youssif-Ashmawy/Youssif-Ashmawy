@@ -63,17 +63,67 @@ class YoussifAshmawy:
 <!-- ═══════════════════════════ PIPELINE ═══════════════════════════ -->
 ## 🔁 How I Ship ML
 
-```mermaid
-flowchart LR
-    A[📥 Data Ingestion] --> B[🧹 Processing & Features]
-    B --> C[🧠 Training<br/>PyTorch · TF]
-    C --> D[📊 Tracking<br/>MLflow]
-    D --> E[🐳 Containerize<br/>Docker]
-    E --> F[⚙️ CI/CD<br/>GitHub Actions]
-    F --> G[☸️ Deploy<br/>Kubernetes · AWS]
-    G --> H[📈 Monitor<br/>Grafana]
-    H -. drift / feedback .-> B
-```
+<div align="center">
+  <img src="./assets/pipeline.svg" alt="Animated MLOps pipeline: ingest, process, train, track, containerize, CI/CD, deploy, monitor, with a drift feedback loop" width="100%"/>
+</div>
+
+<p align="center"><sub>👇 Click any stage to see how I handle it</sub></p>
+
+<details>
+<summary><b>01 · 📥 Ingest</b> — getting reliable data in</summary>
+<br/>
+
+Pull from APIs, files and databases (**PostgreSQL**, **MySQL**, **SQLite**), validate schemas early, and version raw data so every model can be traced back to its inputs.
+</details>
+
+<details>
+<summary><b>02 · 🧹 Process</b> — turning raw data into features</summary>
+<br/>
+
+Clean, transform and engineer features with **Pandas** and **NumPy**. For LLM work: chunking, embedding and indexing documents for **RAG pipelines**.
+</details>
+
+<details>
+<summary><b>03 · 🧠 Train</b> — building the model</summary>
+<br/>
+
+Train and fine-tune with **PyTorch**, **TensorFlow** and **scikit-learn**, with **CUDA** acceleration on NVIDIA GPUs and **OpenCV** for vision tasks.
+</details>
+
+<details>
+<summary><b>04 · 📊 Track</b> — making experiments reproducible</summary>
+<br/>
+
+Log parameters, metrics and artifacts in **MLflow**, compare runs, and promote the best model through a registry instead of a folder called <code>final_v2_REAL</code>.
+</details>
+
+<details>
+<summary><b>05 · 🐳 Containerize</b> — packaging for anywhere</summary>
+<br/>
+
+Wrap models in **FastAPI** / **Flask** services and ship them as lean **Docker** images that behave the same on a laptop and in the cluster.
+</details>
+
+<details>
+<summary><b>06 · ⚙️ CI / CD</b> — automating the boring parts</summary>
+<br/>
+
+**GitHub Actions** runs tests, builds images and deploys on every merge, so shipping a new model is a pull request, not a ceremony.
+</details>
+
+<details>
+<summary><b>07 · ☸️ Deploy</b> — serving at scale</summary>
+<br/>
+
+Roll out on **Kubernetes** across **AWS** and **OpenStack**, behind **Nginx**, with scaling and rollbacks built in.
+</details>
+
+<details>
+<summary><b>08 · 📈 Monitor</b> — watching it in production</summary>
+<br/>
+
+Track latency, errors and data drift in **Grafana** dashboards. When drift shows up, it feeds back into processing and retraining — closing the loop.
+</details>
 
 ---
 
