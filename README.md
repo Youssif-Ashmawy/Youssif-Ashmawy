@@ -1,15 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<<<<<<< HEAD
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssif%20Ashmawy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MLOps%20%26%20LLMOps%20Engineer%20%E2%80%A2%20AI%20%C3%97%20Cloud%20%C3%97%20Production&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Training+models+is+step+one.;Shipping+them+is+the+real+job.;RAG+pipelines+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+for+ML;From+notebook+%E2%86%92+production+%E2%86%92+monitored.;If+it's+not+fully+automated,+it's+not+done." alt="Typing SVG" />
-</a>
-=======
 <img src="./assets/header.svg" alt="Youssif Ashmawy — MLOps & LLMOps Engineer" width="100%"/>
->>>>>>> aa645b8 (adding header image and fixing prev image rendering error)
 
 <p>
   <a href="https://linkedin.com/in/youssif-ashmawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -32,11 +24,6 @@ I'm an **MLOps & LLMOps Engineer** focused on building, deploying, optimizing, a
 
 My focus isn't just on *training* models; it's on **deploying, monitoring, and maintaining** them where it matters: in production. I love turning ideas into **end-to-end systems**, from data ingestion and RAG pipelines all the way to deployment and automation.
 
-<<<<<<< HEAD
-- 🤖 &nbsp;**AI & Machine Learning** - PyTorch, TensorFlow, scikit-learn, OpenCV
-- ☁️ &nbsp;**Cloud & Distributed Systems** - AWS, OpenStack, Kubernetes
-- 📦 &nbsp;**MLOps & LLMOps** - reproducible, observable, production-ready pipelines
-=======
 Before anything ships, I make sure it's worth shipping: I **tune hyperparameters** to squeeze out performance and run **thorough evaluation suites** so every model is measured, compared, and proven, not just assumed to work.
 
 - 🤖 &nbsp;**AI & Machine Learning** - PyTorch, TensorFlow, scikit-learn, OpenCV
@@ -44,7 +31,6 @@ Before anything ships, I make sure it's worth shipping: I **tune hyperparameters
 - 📦 &nbsp;**MLOps & LLMOps** - reproducible, observable, production-ready pipelines
 - 🎯 &nbsp;**Model Optimization** - hyperparameter tuning for accuracy, latency & cost
 - 🧪 &nbsp;**Evaluation & Testing** - benchmark, regression & LLM quality evals
->>>>>>> aa645b8 (adding header image and fixing prev image rendering error)
 - ⚡ &nbsp;**GPU Computing** - CUDA-accelerated workloads
 
 </td>
@@ -52,19 +38,12 @@ Before anything ships, I make sure it's worth shipping: I **tune hyperparameters
 
 ```python
 class YoussifAshmawy:
-<<<<<<< HEAD
-    role     = "MLOps Engineer"
-    focus    = ["LLMs", "Model Serving",
-                "Cloud Infra", "Automation"]
-    pipeline = "data → train → deploy → monitor"
-=======
     role     = "MLOps & LLMOps Engineer"
     focus    = ["LLMs", "Model Serving",
                 "Hyperparameter Tuning",
                 "Evals", "Cloud Infra", "Automation"]
     pipeline = ("data → train → tune → eval"
                 " → deploy → monitor")
->>>>>>> aa645b8 (adding header image and fixing prev image rendering error)
     stack    = {
         "ml":     ["PyTorch", "TensorFlow", "MLflow"],
         "quality":["HPO sweeps", "eval suites"],
