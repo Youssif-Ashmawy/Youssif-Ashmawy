@@ -1,14 +1,144 @@
-# Youssif Ashmawy
-## 💫 About Me:
-I’m an MLOPs Engineer passionate about building intelligent, scalable systems that bridge AI, cloud infrastructure, and real-world applications.<br><br>I enjoy designing projects that combine:<br>	•	🤖 Artificial Intelligence & Machine Learning<br>	•	☁️ Cloud & Distributed Systems<br>	•	📦 MLOps & Production-ready AI pipelines<br><br>My focus is not just on training models, but on deploying, monitoring, and maintaining them in real-world environments. I like turning ideas into end-to-end systems, from data ingestion and RAG pipelines to deployment and automation.
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssif%20Ashmawy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MLOps%20Engineer%20%E2%80%A2%20AI%20%C3%97%20Cloud%20%C3%97%20Production&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Training+models+is+step+one.;Shipping+them+is+the+real+job.;RAG+pipelines+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+for+ML;From+notebook+%E2%86%92+production+%E2%86%92+monitored." alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssif-ashmawy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashmawyyoussif@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-FDDA0D)](https://youssif-ashmawy.github.io/Portfolio/) 
+<p>
+  <a href="https://linkedin.com/in/youssif-ashmawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashmawyyoussif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youssif-ashmawy.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FDDA0D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Youssif-Ashmawy&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+</p>
 
+</div>
 
+---
 
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 💫 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm an **MLOps Engineer** who builds intelligent, scalable systems that bridge **AI**, **cloud infrastructure**, and **real-world applications**.
+
+My focus isn't just on *training* models — it's on **deploying, monitoring, and maintaining** them where it matters: in production. I love turning ideas into **end-to-end systems**, from data ingestion and RAG pipelines all the way to deployment and automation.
+
+- 🤖 &nbsp;**AI & Machine Learning** — PyTorch, TensorFlow, scikit-learn, OpenCV
+- ☁️ &nbsp;**Cloud & Distributed Systems** — AWS, OpenStack, Kubernetes
+- 📦 &nbsp;**MLOps** — reproducible, observable, production-ready pipelines
+- ⚡ &nbsp;**GPU Computing** — CUDA-accelerated workloads
+
+</td>
+<td width="45%" valign="top">
+
+```python
+class YoussifAshmawy:
+    role     = "MLOps Engineer"
+    focus    = ["LLMs & RAG", "Model Serving",
+                "Cloud Infra", "Automation"]
+    pipeline = "data → train → deploy → monitor"
+    stack    = {
+        "ml":     ["PyTorch", "TensorFlow", "MLflow"],
+        "infra":  ["Docker", "Kubernetes", "AWS"],
+        "serve":  ["FastAPI", "Flask", "Nginx"],
+        "observe":["Grafana"],
+    }
+
+    def motto(self):
+        return "If it's not in prod, it's a demo."
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════ PIPELINE ═══════════════════════════ -->
+## 🔁 How I Ship ML
+
+```mermaid
+flowchart LR
+    A[📥 Data Ingestion] --> B[🧹 Processing & Features]
+    B --> C[🧠 Training<br/>PyTorch · TF]
+    C --> D[📊 Tracking<br/>MLflow]
+    D --> E[🐳 Containerize<br/>Docker]
+    E --> F[⚙️ CI/CD<br/>GitHub Actions]
+    F --> G[☸️ Deploy<br/>Kubernetes · AWS]
+    G --> H[📈 Monitor<br/>Grafana]
+    H -. drift / feedback .-> B
+```
+
+---
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 AI / ML & Data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+
+### ☁️ Cloud, DevOps & MLOps
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions,nginx,grafana&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,bash,powershell,latex&theme=dark" />
+
+### 🌐 Backend, Frontend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,html,qt&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 🐍 Contribution Grid
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssif-Ashmawy/Youssif-Ashmawy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssif-Ashmawy/Youssif-Ashmawy/output/github-snake.svg" />
+  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/Youssif-Ashmawy/Youssif-Ashmawy/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
+
+### 🤝 Let's Build Something
+
+Open to collaborations on **MLOps**, **LLM/RAG systems**, and **cloud-native AI**.
+<br/>Reach out on [LinkedIn](https://linkedin.com/in/youssif-ashmawy) or drop me an [email](mailto:ashmawyyoussif@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+
+</div>
